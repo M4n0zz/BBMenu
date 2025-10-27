@@ -1,2 +1,2 @@
 # BBMenu
-The first mod menu for Pokemon Gen 1 Games
+The first mod menu for 1st Generation Pokemon Games
