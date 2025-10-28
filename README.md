@@ -18,7 +18,7 @@
 
 ---
 
-Compatible with Pokémon Red, Blue and Yellow english versions, as well as VC releases. 
+Compatible with Pokémon Red, Blue and Yellow English version, as well as VC releases. 
 
 BBMenu can be installed inside your savegame using Arbitrary Code Execution, thus it can run in **original copies**, unlike any other ROMhacks!
 
@@ -51,7 +51,7 @@ Warning! During the installation process DO NOT PRESS SELECT button while in the
 ---
 
 ### 🔧 How it works:
-Pokemon Generation 1 games encapsulate a big amount of unused data in their save files. By using ACE, BBMenu is stored in there and injects its kernel, upon the moment the game is loaded. The kernel is responsible to run every constant effect payload in the backround or trigger the menu on demand.
+Pokemon Generation 1 games encapsulate a big amount of unused data in their save files. By using ACE, BBMenu is stored in there and injects its kernel, upon the moment the game is loaded. The kernel is responsible to run every constant effect payload in the background or trigger the menu on demand.
 Every payload is fetched into WRAM before is run, so that VC releases are totally compatible, since they cannot execute code directly from the save file.  
 
 ---
@@ -59,7 +59,7 @@ Every payload is fetched into WRAM before is run, so that VC releases are totall
 ## 💬 Contact
 
 Feel free to fork, reuse, or propose new modules!
-For personalised requests and collaborations contact me.
+For personalised requests and collaborations, please contact me at.
 
 ---
 
