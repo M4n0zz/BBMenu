@@ -4,19 +4,23 @@
 ---
 
 ## 📷 Screenshots
-# ![1](Shots/bbmenu1.jpg)
-# ![2](Shots/bbmenu2.jpg)
-# ![3](Shots/bbmenu3.jpg)
-# ![4](Shots/bbmenu4.jpg)
-# ![5](Shots/bbmenu5.jpg)
-# ![6](Shots/bbmenu6.jpg)
-# ![7](Shots/bbmenu7.jpg)
+<p align="center">
+  <img src="Shots/bbmenu1.jpg" width="200"/>
+    <img src="Shots/bbmenu2.jpg" width="200"/>
+  <img src="Shots/bbmenu3.jpg" width="200"/>
+  <img src="Shots/bbmenu4.jpg" width="200"/>
+</p>
+<p align="center">
+  <img src="Shots/bbmenu5.jpg" width="200"/>
+    <img src="Shots/bbmenu6.jpg" width="200"/>
+  <img src="Shots/bbmenu7.jpg" width="200"/>
+</p>
 
 ---
 
 Compatible with Pokémon Red, Blue and Yellow english versions, as well as VC releases. 
 
-BBMenu can be installed inside your savegame using Arbitrary Code Execution, thus it can run in **original cartridges**, unlike any other ROMhacks!
+BBMenu can be installed inside your savegame using Arbitrary Code Execution, thus it can run in **original copies**, unlike any other ROMhacks!
 
 ## ✅ What BBMenu allowes you to do:
 - Use constant effects like Running, Walking through Walls, Pokemon Beast Mode, Trainer avoidance etc.
@@ -30,20 +34,20 @@ BBMenu can be installed inside your savegame using Arbitrary Code Execution, thu
 
 ## ✅ Requirements
 - A Gameboy console, a 3DS console or a compatible emulator (BGB recommended).
-- An original copy of English Pokémon Red, Blue or Yellow, a VC release of these games or an original ROM file.
-- [TimoVM's ACE](https://glitchcity.wiki/wiki/Guides:TimoVM%27s_gen_1_ACE_setups) setup
-- [TimOS](https://glitchcity.wiki/wiki/Guides:Nickname_Writer_Codes) latest version
+- An original copy of English Pokémon Red, Blue or Yellow, a VC release or an original ROM file.
+- TimoVM's [modernized ACE](https://glitchcity.wiki/wiki/Guides:TimoVM%27s_gen_1_ACE_setups) setup
+- [TimOS](https://glitchcity.wiki/wiki/Guides:Nickname_Writer_Codes) latest version.
 
 ---
 
 ## 🔗 Installation
 
-After setting up TimOS environment, you need to insert all the hex code parts in the same way you did for TimOS.
+After setting up TimOS environment (required), you need to insert all the hex code parts in the same way you did in the above guides.
 - Copy and paste the code from part1 in the [converter](https://timovm.github.io/NicknameConverter/).
 - Write all nickname codes in nickname writter one by one and press start in the verification screen of the last one to run it.
 - If you did everything correctly the game does not crash and you can make a save. In different case, reset and repeat.
-- Do the same thing until every part is installed. Parts from 3 and on do not require saving the game, since they install the payloads directly into the save file.
-- 
+- Do the same thing until every part is installed. Parts from no.3 and on do not require saving the game, since they install the payloads directly into the save file.
+Warning! During the installation process DO NOT PRESS SELECT button while in the overworld. BBMenu needs to be fully installed, otherwise a crash is guaranteed (at least if parts 1-3 are missing).
 ---
 
 ### 🔧 How it works:
