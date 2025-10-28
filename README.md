@@ -35,8 +35,8 @@ BBMenu can be installed inside your savegame using Arbitrary Code Execution, thu
 ## ✅ Requirements
 - A Gameboy console, a 3DS console or a compatible emulator (BGB recommended).
 - An original copy of English Pokémon Red, Blue or Yellow, a VC release or an original ROM file.
-- TimoVM's [modernized ACE](https://glitchcity.wiki/wiki/Guides:TimoVM%27s_gen_1_ACE_setups) setup
-- [TimOS](https://glitchcity.wiki/wiki/Guides:Nickname_Writer_Codes) latest version.
+- TimoVM's [modernized ACE](https://glitchcity.wiki/wiki/Guides:TimoVM%27s_gen_1_ACE_setups) setup.
+- Latest version of [TimOS](https://glitchcity.wiki/wiki/Guides:Nickname_Writer_Codes) environment.
 
 ---
 
