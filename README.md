@@ -56,7 +56,7 @@ After setting up TimOS environment (required), you need to insert all the hex co
 - **Slip script** allows you to walk through walls. Although it includes some basic prevention, walking outside map's borders risks crashing your game with your savegame being deleted! **Use with Caution!**
   
 ## ⚠ Notes
-Parts from 2+ are more tolerant to input errors, since their payloads activate only through BBMenu and a crash can indicate which part you need to reinstall.
+Part codes from 2+ are more tolerant to input errors, since their payloads activate only through BBMenu and a crash can indicate which part you need to reinstall.
 That being said, here is what every part includes:
 - Part1: Kernel stuff
 - Part2: Constant effect payloads
@@ -70,8 +70,9 @@ That being said, here is what every part includes:
 ---
 
 ### 🔧 How it works:
-Pokemon Generation 1 games include a big amount of free space in their save files. By using ACE, BBMenu is stored in there and by using specifc hijacks it injects its kernel, while the game is loaded. The kernel is responsible to run every constant effect payload in the background or trigger the menu on demand.
-Every payload is fetched into WRAM before it runs, in a way that VC releases are totally compatible, since these versions cannot execute code directly from the save file, compared to the older cartridges.  
+Pokémon Generation 1 games contain a large amount of unused space within their save files. BBMenu takes advantage of this free space by storing its data there through Arbitrary Code Execution (ACE). When the game loads, BBMenu uses specific hijack techniques to inject its kernel into memory.
+
+The kernel runs background payloads continuously and also triggers the menu on demand. Each menu payload is first copied into WRAM before execution. This design ensures full compatibility with Virtual Console (VC) releases, which cannot execute code directly from the save file—unlike the original Game Boy cartridges.
 
 ---
 
