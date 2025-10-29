@@ -27,7 +27,7 @@ BBMenu can be installed inside your savegame using Arbitrary Code Execution, thu
 - Get any **Item, Pokémon **or** Moveset**. 
 - Instantly encounter any **Pokémon** or **Trainer** (yes, OAK is included!).
 - Instantly get max **Money, Coins, Badges** etc.
-- Launch **custom mini-games** like Snake!
+- Launch custom **mini-games** like **Snake**!
 - All from an in-game menu, with a simple press of **Select button**!
 
 ---
@@ -43,7 +43,7 @@ BBMenu can be installed inside your savegame using Arbitrary Code Execution, thu
 ## 🔗 Installation
 
 After setting up TimOS environment (required), you need to insert all the hex code parts, the same way you did for the Nickname Writer codes.
-- Copy and paste the code from partX in the [converter](https://timovm.github.io/NicknameConverter/).
+- Copy and paste the code from part1 in the [converter](https://timovm.github.io/NicknameConverter/).
 - Write all nickname codes in nickname writter one by one and press start in the verification screen of the last one to execute it.
 - If you did everything correctly the game does not crash and you can make a save. In different case, reset and repeat.
 - Repeat the process until every part is installed. Parts from no.3 and on do not require saving the game, since they install the payloads directly into the save file.
@@ -53,7 +53,7 @@ After setting up TimOS environment (required), you need to insert all the hex co
 ## ⚠ Warnings!
 - **DO NOT OPEN** BBMenu with SELECT button until the installation is complete, otherwise a crash is guaranteed, especially if parts 2 and 3 are missing!
 - During nickname input, code in part 1 is crucial. If you dont input EXACTLY what is written, there is a high chance to mess up your savegame!
-- **Slip script** allows you to walk through walls. Although it includes some basic protection, walking outside map's borders risks crashing your game with your savegame being deleted. **Use with Caution!**
+- **Slip script** allows you to walk through walls. Although it includes some basic prevention, walking outside map's borders risks crashing your game with your savegame being deleted! **Use with Caution!**
   
 ## ⚠ Notes
 Parts from 2+ are more tolerant to input errors, since their payloads activate only through BBMenu and a crash can indicate which part you need to reinstall.
