@@ -72,7 +72,7 @@ That being said, here is what every part includes:
 ---
 
 ### 🔧 How it works:
-Pokémon Generation 1 games contain a large amount of unused space within their save files. BBMenu takes advantage of this free space by storing its data there through Arbitrary Code Execution (ACE). When the game loads, BBMenu uses specific hijack techniques to inject its kernel into memory.
+Pokémon Generation 1 games contain a large amount of unused space within their save files. BBMenu takes advantage of this by storing its data there through Arbitrary Code Execution (ACE). When the game loads, BBMenu uses specific hijack techniques to inject its kernel into memory.
 
 The kernel runs background payloads continuously and also triggers the menu on demand. Each menu payload is first copied into WRAM before execution. This design ensures full compatibility with Virtual Console (VC) releases, which cannot execute code directly from the save file — unlike the original Game Boy cartridges.
 
