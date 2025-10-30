@@ -43,7 +43,7 @@ BBMenu can be installed inside your savegame using Arbitrary Code Execution, thu
 
 ## 🔗 Installation
 
-After setting up TimOS environment (required), you need to insert all the hex code parts, the same way you did for the Nickname Writer codes.
+After setting up TimOS environment (required), you need to insert all hex code parts, the same way you did with the Nickname Writer codes.
 - Copy and paste the code from part1 in the [converter](https://timovm.github.io/NicknameConverter/).
 - Write all nickname codes in nickname writter one by one and press start in the verification screen of the last one to execute it.
 - If you did everything correctly the game does not crash and you can make a save. In different case, reset and repeat.
