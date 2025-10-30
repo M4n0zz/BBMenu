@@ -54,7 +54,7 @@ After setting up TimOS environment (required), you need to insert all hex code p
 ## ⚠ Warnings!
 - **DO NOT OPEN** BBMenu with SELECT button until the installation is complete, otherwise a crash is guaranteed, especially if parts 2 and 3 are missing!
 - During nickname input, code in part 1 is crucial. If you dont input EXACTLY what is shown, there is a high chance your savegame will be messed up!
-- Always double check that you copy and paste every single byte. This is the stupidest, yet most common, way to say goodby to your save file!
+- Always double check that you copy and paste every single byte. This is the stupidest, yet most common, way to say goodbye to your save file!
 - **Slip script** allows you to walk through walls. Although it includes some basic prevention, walking outside map's borders risks crashing the game with your savegame being deleted! **Use with Caution!**
   
 ## ⚠ Notes
@@ -72,15 +72,15 @@ That being said, here is what every part includes:
 ---
 
 ### 🔧 How it works:
-Pokémon Generation 1 games contain a large amount of unused space within their save files. BBMenu takes advantage of this by storing its data there through Arbitrary Code Execution (ACE). When the game loads, BBMenu uses specific hijack techniques to inject its kernel into memory.
+Pokémon Generation 1 games contain a large amount of unused space within their save files. BBMenu takes advantage of this by storing its data there through Arbitrary Code Execution (ACE). When the game loads, BBMenu uses specific hijacking techniques to inject its kernel into memory and load any required libraries.
 
-The kernel runs background payloads continuously and also triggers the menu on demand. Each menu payload is first copied into WRAM before execution. This design ensures full compatibility with Virtual Console (VC) releases, which cannot execute code directly from the save file — unlike the original Game Boy cartridges.
+The kernel continuously runs active payloads in the background and can trigger the script menu on demand. Each menu payload is first copied into WRAM before it runs. This design ensures full compatibility with Virtual Console (VC) releases, which cannot execute code directly from the save file — unlike the original Game Boy cartridges.
 
 ---
 
 ## 💬 Contact
 
-Feel free to fork, reuse, or propose new modules! For personalised requests and collaborations, please contact me.
+Feel free to fork, reuse, or propose new modules! For personalised requests and collaborations, please contact me at manoz.dev25@gmail.com.
 
 ---
 
