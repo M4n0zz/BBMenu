@@ -23,7 +23,7 @@ Compatible with Pokémon Red, Blue and Yellow English versions, as well as VC re
 BBMenu can be installed inside your savegame using Arbitrary Code Execution, thus it can run in **original copies**, unlike any other ROMhacks!
 
 ## ✅ What BBMenu allowes you to do:
-- Use constant effects like **Running, Walking through Walls, Pokemon Beast Mode, Trainer avoidance** etc.
+- Use constant effects like **Running, Walking through Walls, Beast Mode, Trainer Avoidance** etc.
 - Get any **Item, Pokémon** or **Moveset**. 
 - Instantly encounter any **Pokémon** or **Trainer** (yes, OAK is included!).
 - Instantly get max **Money, Coins, Badges** etc.
