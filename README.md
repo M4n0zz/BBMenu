@@ -43,18 +43,19 @@ BBMenu can be installed inside your savegame using Arbitrary Code Execution, thu
 
 ## 🔗 Installation
 
-After setting up TimOS environment (required), you need to insert all hex code parts, the same way you did with the Nickname Writer codes.
-- Copy and paste the code from part1 in the [converter](https://timovm.github.io/NicknameConverter/).
-- Write all nickname codes in nickname writter one by one and press start in the verification screen of the last one to execute it.
-- If you did everything correctly the game does not crash and you can make a save. In different case, reset and repeat.
-- Repeat the process until every part is installed. Parts from no.3 and on do not require saving the game, since they install the payloads directly into the save file.
+After setting up TimOS environment (required), you need to insert all hex code parts, the same way you did with the ACE setup.
+- Copy and paste the code from part1 in the [Nickname Converter](https://timovm.github.io/NicknameConverter/).
+- Write all nickname codes in Nickname Writer and press start in the verification screen of the last one to execute it.
+- If you input everything correctly the game does not crash and you can make a save (required for parts 1 and 2). In different case, reset and repeat.
+- Repeat the procedure until every hex part is installed. Parts 3 and on do not require saving the game, since they install payloads directly into the save file.
 
 ---
 
 ## ⚠ Warnings!
 - **DO NOT OPEN** BBMenu with SELECT button until the installation is complete, otherwise a crash is guaranteed, especially if parts 2 and 3 are missing!
-- During nickname input, code in part 1 is crucial. If you dont input EXACTLY what is written, there is a high chance to mess up your savegame!
-- **Slip script** allows you to walk through walls. Although it includes some basic prevention, walking outside map's borders risks crashing your game with your savegame being deleted! **Use with Caution!**
+- During nickname input, code in part 1 is crucial. If you dont input EXACTLY what is shown, there is a high chance your savegame will be messed up!
+- Always double check you copy and paste every single byte. This is the stupidest, yet most common way to say goodby to your save file!
+- **Slip script** allows you to walk through walls. Although it includes some basic prevention, walking outside map's borders risks crashing the game with your savegame being deleted! **Use with Caution!**
   
 ## ⚠ Notes
 Part codes from 2+ are more tolerant to input errors, since their payloads activate only through BBMenu and a crash can indicate which part you need to reinstall.
