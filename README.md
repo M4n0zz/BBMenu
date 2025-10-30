@@ -54,7 +54,7 @@ After setting up TimOS environment (required), you need to insert all hex code p
 ## ⚠ Warnings!
 - **DO NOT OPEN** BBMenu with SELECT button until the installation is complete, otherwise a crash is guaranteed, especially if parts 2 and 3 are missing!
 - During nickname input, code in part 1 is crucial. If you dont input EXACTLY what is shown, there is a high chance your savegame will be messed up!
-- Always double check you copy and paste every single byte. This is the stupidest, yet most common way to say goodby to your save file!
+- Always double check that you copy and paste every single byte. This is the stupidest, yet most common, way to say goodby to your save file!
 - **Slip script** allows you to walk through walls. Although it includes some basic prevention, walking outside map's borders risks crashing the game with your savegame being deleted! **Use with Caution!**
   
 ## ⚠ Notes
