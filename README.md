@@ -80,7 +80,7 @@ The kernel continuously runs active payloads in the background and can trigger t
 
 ## 💬 Contact
 
-Feel free to fork, reuse, or propose new modules! For personalised requests and collaborations, please contact me at manoz.dev25@gmail.com.
+Feel free to fork, reuse, or propose new modules! For personalised requests and collaborations, please contact me at: manoz.dev25@gmail.com
 
 ---
 
