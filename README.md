@@ -45,7 +45,7 @@ BBMenu can be installed inside your savegame using Arbitrary Code Execution, thu
 
 After setting up TimOS environment (required), you need to insert all [hex code parts](https://github.com/M4n0zz/BBMenu/tree/main/Installation), the same way you did with the ACE setup.
 - Copy and paste the code from part1 in the [Nickname Converter](https://timovm.github.io/NicknameConverter/).
-- Write all nickname codes in Nickname Writer and press start in the verification screen of the last one to execute it.
+- Write all nickname codes in Nickname Writer and press start in the verification screen of the last one to run it.
 - If you input everything correctly the game does not crash and you can make a save (required for parts 1 and 2). In different case, reset and repeat.
 - Repeat the procedure until every hex part is installed. Parts 3 and on do not require saving the game, since they install payloads directly into the save file.
 
