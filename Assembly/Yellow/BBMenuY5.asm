@@ -255,14 +255,14 @@ dexhack:
 ; pokedex flags dexbackup
 ld   hl, wPokedexSeen
 ld   de, dexbackup
-ld   c, $0013
+ld   c, $13
 push de                       ; saves backup address for later
 push bc                       ; saves data length
 push hl                       ; saves seen address
 
 push bc                       ; saves length again
 push hl                       ; saves seen address again
-call CopyData
+call CopyMapConnectionHeaderloop
 
 ; pokedex flags setup for script
 pop  hl                       ; restores seen address
@@ -290,7 +290,7 @@ pop  hl                       ; dexbackup
 push af
 push bc                       ; bytes
 push de                       ; seens start
-call CopyData
+call CopyMapConnectionHeaderloop
 
 ; merges seen with own
 pop  hl                       ; hl = own end, de = seen end
@@ -310,4 +310,5 @@ ret
 mapend:
 
 ENDL
+
 
