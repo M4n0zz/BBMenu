@@ -36,25 +36,25 @@ BBMenu can be installed inside your savegame using Arbitrary Code Execution, thu
 - A **Gameboy** or **3DS** console or a compatible **emulator** (BGB recommended).
 - An **original** copy of English **Pokémon Red, Blue or Yellow**, a **VC release** or an **original ROM file**.
 - TimoVM's [modernized ACE](https://glitchcity.wiki/wiki/Guides:TimoVM%27s_gen_1_ACE_setups) setup.
-- Latest version of [TimOS](https://glitchcity.wiki/wiki/Guides:Nickname_Writer_Codes) environment.
-- A cup of coffee and a lot of patience!
+- Latest version of [TimOS Script Selector](https://glitchcity.wiki/wiki/Guides:Nickname_Writer_Codes).
+- A cup of coffee and a huge amount of patience, it will literally take about 4:30 hours to complete!
 
 ---
 
 ## 🔗 Installation
 
-After setting up TimOS environment (required), you need to insert all [hex code parts](https://github.com/M4n0zz/BBMenu/tree/main/Installation), the same way you did with the ACE setup.
+After setting up TimOS (required), you need to insert all [hex code parts](https://github.com/M4n0zz/BBMenu/tree/main/Installation), the same way you did with the ACE setup.
 - Copy and paste the code from part1 in the [Nickname Converter](https://timovm.github.io/NicknameConverter/).
-- Write all nickname codes in Nickname Writer and press start in the verification screen of the last one to run it.
+- Write all nickname codes in Nickname Writer and press start in the verification screen of the last code to run it.
 - If you input everything correctly the game does not crash and you can make a save (required for parts 1 and 2). In different case, reset and repeat.
-- Repeat the procedure until every hex part is installed. Parts 3 and on do not require saving the game, since they install payloads directly into the save file.
+- Repeat the procedure until every hex part is installed. Parts 3+ do not require saving the game, since the payloads are installed directly into the save file.
 
 ---
 
-## ⚠ Warnings!
+## ⚠ Warnings! - Before you proceed, please make sure to read the following
 - **DO NOT OPEN** BBMenu with SELECT button until the installation is complete, otherwise a crash is guaranteed, especially if parts 2 and 3 are missing!
 - During nickname input, code in part 1 is crucial. If you dont input EXACTLY what is shown, there is a high chance your savegame will be messed up!
-- Always double check that you copy and paste every single byte. This is the stupidest, yet most common, way to say goodbye to your save file!
+- Always double check that you copy and paste every single byte. This is the stupidest, yet most common way to say goodbye to your save file!
 - **Slip script** allows you to walk through walls. Although it includes some basic prevention, walking outside map's borders risks crashing the game with your savegame being deleted! **Use with Caution!**
   
 ## ⚠ Notes
