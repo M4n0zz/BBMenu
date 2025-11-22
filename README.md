@@ -29,6 +29,7 @@ BBMenu can be installed inside your savegame using Arbitrary Code Execution, thu
 - Instantly get max **Money, Coins, Badges** etc.
 - Launch custom **mini-games** like **Snake**!
 - All from an in-game menu, with a simple press of **Select button**!
+More details in [here](https://github.com/M4n0zz/BBMenu/blob/main/Features.md).
 
 ---
 
