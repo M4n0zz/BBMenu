@@ -1,4 +1,4 @@
-## Features
+## BBMenu Script Features
 
 ### **Run**
 
@@ -22,18 +22,20 @@
 
 ### **StealRun**
 
-* Allows stealing an enemy trainer’s Pokémon **or** run from battle while still counting it as a win.
+* Allows stealing an enemy trainer’s Pokémon.
+* Allows running from a battle.
+* In both scenarios the battle ends and the game counts it as a win.
 
 ### **Stealth**
 
-* Stops all map scripts.
+Stops all map scripts causing the following effects:
 * Avoids wild trainers, blocked paths, and forced interactions.
 * Freezes map objects (can break events), so use carefully.
 
 ### **Fly**
 
-* Use Fly anytime without needing a Pokémon for it.
-* Travel to any unlocked Fly destination.
+* Allows using Fly anytime without needing a Pokémon for it.
+* Allows travelling to any unlocked Fly destination.
 
 ### **Heal**
 
@@ -45,7 +47,7 @@
 
 ### **Items**
 
-* Shows all obtainable items (plus some glitched ones).
+Shows all obtainable items (plus some glitched ones).
 * **A:** Choose quantity (1–256).
 * **D-Pad + B:** Remove the last item in your bag.
 
@@ -94,12 +96,12 @@
 
 ### **Pong**
 
-* Starts a Pong minigame.
+Starts a Pong minigame.
 * Game speed increases as your score rises.
 
 ### **Snake**
 
-* Starts a classic Snake minigame.
+Starts a classic Snake minigame.
 * Snake speed and length increase with each target.
 * Shows current score and high score.
 * High score is saved to the save file.
