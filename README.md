@@ -38,7 +38,7 @@ More details in [here](https://github.com/M4n0zz/BBMenu/blob/main/Features.md).
 - An **original** copy of English **Pokémon Red, Blue or Yellow**, a **VC release** or an **original ROM file**.
 - TimoVM's [modernized ACE](https://glitchcity.wiki/wiki/Guides:TimoVM%27s_gen_1_ACE_setups) setup.
 - Latest version of [TimOS Script Selector](https://glitchcity.wiki/wiki/Guides:Nickname_Writer_Codes).
-- A cup of coffee and a huge amount of patience, it will literally take about 4:30 hours to complete!
+- A cup of coffee and a huge amount of patience, installation will literally take about 4:30 hours to complete!
 
 ---
 
@@ -52,7 +52,7 @@ After setting up TimOS (required), you need to insert all [hex code parts](https
 
 ---
 
-## ⚠ Warnings! - Before you proceed, please make sure to read the following
+## ⚠ Warnings - Before you proceed, please make sure to read the following!
 - **DO NOT OPEN** BBMenu with SELECT button until the installation is complete, otherwise a crash is guaranteed, especially if parts 2 and 3 are missing!
 - During nickname input, code in part 1 is crucial. If you dont input EXACTLY what is shown, there is a high chance your savegame will be messed up!
 - Always double check that you copy and paste every single byte. This is the stupidest, yet most common way to say goodbye to your save file!
@@ -83,7 +83,8 @@ The kernel continuously runs active payloads in the background and can trigger t
 
 Feel free to fork, reuse, or propose new modules!
 - You can find me in [GCRI Discord server](https://discord.gg/EA7jxJ6), ping @M4n0z.
-- For personalised requests and collaborations you can also contact me at: manoz.dev25@gmail.com
+- You can also get BBMenu ready to play in your save file or support my work [here](https://github.com/M4n0zz).
+- For personalised requests and collaborations feel free to contact me at: manoz.dev25@gmail.com
 
 ---
 
