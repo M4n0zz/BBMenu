@@ -98,6 +98,8 @@ Shows all obtainable items (plus some glitched ones).
 
 Starts a Pong minigame.
 * Game speed increases as your score rises.
+* Shows current score and high score.
+* High score is saved to the save file.
 
 ### **Snake**
 
@@ -105,3 +107,4 @@ Starts a classic Snake minigame.
 * Snake speed and length increase with each target.
 * Shows current score and high score.
 * High score is saved to the save file.
+
