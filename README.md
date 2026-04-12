@@ -20,7 +20,7 @@
 
 Compatible with Pokémon Red, Blue and Yellow English versions, as well as VC releases. 
 
-BBMenu can be installed inside your savegame using Arbitrary Code Execution, thus it can run in **original copies**, unlike any other ROMhacks!
+BBMenu can be installed inside your savegame using [Arbitrary Code Execution](https://glitchcity.wiki/wiki/Arbitrary_code_execution), thus it can run in **original copies**, unlike any other ROMhacks!
 
 ## ✅ What BBMenu allowes you to do:
 - Use constant effects like **Running, Walking through Walls, Beast Mode, Trainer Avoidance** etc.
