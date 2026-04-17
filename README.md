@@ -1,5 +1,5 @@
 # BBMenu
-*The first mod menu for Generation 1 Pokemon Games*
+*The first installable mod menu for Generation 1 Pokemon Games*
 
 ---
 
