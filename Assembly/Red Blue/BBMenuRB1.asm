@@ -10,7 +10,7 @@ include "pokered.inc"
 include "bbmenuRB.inc"
 
 
-def newpokemonstackret = $6724
+def newpokemonstackret = $7dcf
 
 
 SECTION "BBMenuRB1", ROM0
@@ -241,7 +241,7 @@ cp   a, b                     ; can be set safely. MSP will reset it anyways whi
 ret  z
 
 ; if new pokemon check
-ld   hl, sp+$1c               ; inspect stack - if givepokemon is active
+ld   hl, sp+$1a               ; inspect stack - if givepokemon is active
 ld   a, [hl+]
 cp   a, low(newpokemonstackret)
 jr   nz, .flagcheck
