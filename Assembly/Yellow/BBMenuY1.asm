@@ -175,7 +175,7 @@ ENDL
 ;;;;;;;;;;;; OAM hijack payload ;;;;;;;;;;;;
 dmajack:
 call DMAhijack                ; if initial payload changes, change address acordingly
-ld   [c], a                   ; setup to trigger stock OAM payload
+ldh  [c], a                   ; setup to trigger stock OAM payload
 
 
 LOAD "boxselector", WRAMX[topstack]
